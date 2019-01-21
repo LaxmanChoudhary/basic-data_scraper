@@ -13,9 +13,7 @@ And that list’s just scratching the surface. Data scraping has a vast number o
 
 Python uses following libraries for scraping data of the link,
 > requests
-
 > urllib / urllib2
-
 > BeautifulSoup4
 
 ** Libraries are used as per the need. **
