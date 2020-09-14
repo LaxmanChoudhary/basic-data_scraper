@@ -12,6 +12,9 @@ Popular uses of data scraping include:
 And that list’s just scratching the surface. Data scraping has a vast number of applications – it’s useful in just about any case where data needs to be moved from one place to another.
 
 Python uses following libraries for scraping data of the link,
-> requests <br>urllib / urllib2 <br>BeautifulSoup4
+```
+requests
+urllib / urllib2
+BeautifulSoup4
+```
 
-** Libraries are used as per the need. **
